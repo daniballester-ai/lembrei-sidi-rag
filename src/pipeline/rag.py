@@ -271,7 +271,9 @@ class RAGPipeline:
         """Extrai, chunka e indexa os PDFs do corpus no ChromaDB + BM25."""
         self._limpar_collection()
         chunks: list[dict] = []
-        for caminho_pdf in self.corpus_dir.glob("*.pdf"):
+        for caminho_pdf in sorted(self.corpus_dir.iterdir()):
+            if caminho_pdf.suffix.lower() != ".pdf":
+                continue
             leitor = PdfReader(str(caminho_pdf))
             total_paginas = len(leitor.pages)
             pdf_chunks = 0
