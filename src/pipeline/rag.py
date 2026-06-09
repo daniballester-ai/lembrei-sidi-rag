@@ -270,30 +270,26 @@ class RAGPipeline:
     def ingest_and_index(self) -> int:
         """Extrai, chunka e indexa os PDFs do corpus no ChromaDB + BM25."""
         self._limpar_collection()
-        docs: list[dict] = []
+        chunks: list[dict] = []
         for caminho_pdf in self.corpus_dir.glob("*.pdf"):
             leitor = PdfReader(str(caminho_pdf))
+            total_paginas = len(leitor.pages)
+            pdf_chunks = 0
             for num_pagina, pagina in enumerate(leitor.pages, start=1):
                 texto = pagina.extract_text()
                 if texto and texto.strip():
-                    docs.append({
-                        "text": self._enriquecer_datas(self._limpar_texto_pdf(texto.strip())),
-                        "source": caminho_pdf.name,
-                        "page": num_pagina,
-                    })
-            print(f"  Lido: {caminho_pdf.name} ({len(leitor.pages)} paginas)")
-
-        chunks: list[dict] = []
-        for doc in docs:
-            textos_chunk = self._dividir_por_secoes(doc["text"], max_chars=800)
-            for i, texto in enumerate(textos_chunk):
-                chunk_id = f"{doc['source']}_p{doc['page']}_c{i}"
-                chunks.append({
-                    "id": chunk_id,
-                    "text": texto,
-                    "source": doc["source"],
-                    "page": doc["page"],
-                })
+                    texto_processado = self._enriquecer_datas(self._limpar_texto_pdf(texto.strip()))
+                    textos_chunk = self._dividir_por_secoes(texto_processado, max_chars=800)
+                    for i, texto_chunk in enumerate(textos_chunk):
+                        chunk_id = f"{caminho_pdf.name}_p{num_pagina}_c{i}"
+                        chunks.append({
+                            "id": chunk_id,
+                            "text": texto_chunk,
+                            "source": caminho_pdf.name,
+                            "page": num_pagina,
+                        })
+                    pdf_chunks += len(textos_chunk)
+            print(f"  [{caminho_pdf.name}] {total_paginas} paginas, {pdf_chunks} chunks")
         print(f"  Total chunks de PDF: {len(chunks)}")
 
         if chunks:
