@@ -1,0 +1,20 @@
+[
+  {
+    "id": "a277ee14",
+    "disciplina": "23-Desenvolvendo Software com IA Generativa",
+    "atividade": "Projeto Final",
+    "data_limite": "09-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://forms.gle/1HpQsrcV5ip3jGDg8",
+    "detalhes": "Projeto final do professor Nicksson. Precisa enviar o link público do projeto, o link do github e fazer um vídeo de + ou - 3 min."
+  },
+  {
+    "id": "5f0bd144",
+    "disciplina": "24-Fairness em Machine Learning",
+    "atividade": "Atividade Final",
+    "data_limite": "10-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://forms.gle/iPmQEtXFq2pXVfyG9",
+    "detalhes": "Somente preencher o Forms. Material de estudos são os notebooks e leituras em https://sidiorgbr.sharepoint.com/:f:/r/sites/PPISOFTEX-RESIDNCIATIC/Shared%20Documents/General/24-%20Fairness%20em%20Algoritmos%20de%20Machine%20Learning?csf=1&web=1&e=k3XCpd"
+  }
+]
