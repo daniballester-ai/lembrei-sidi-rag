@@ -10,5 +10,4 @@ venv/
 scratch_*.py
 projetos/
 lab04/
-scripts/
 *.egg-info/

@@ -138,8 +138,8 @@ class RAGPipeline:
         self.persist_dir = persist_dir
         self.collection_name = collection_name
 
-        chroma = chromadb.PersistentClient(path=persist_dir)
-        self.collection = chroma.get_or_create_collection(
+        self._chroma = chromadb.PersistentClient(path=persist_dir)
+        self.collection = self._chroma.get_or_create_collection(
             name=collection_name, embedding_function=self.funcao_embedding
         )
 
@@ -167,6 +167,15 @@ class RAGPipeline:
             metadados=dados["metadatas"],
         )
         print(f"  Indice BM25 reconstruido com {contagem} chunks")
+
+    def _limpar_collection(self) -> None:
+        try:
+            self._chroma.delete_collection(self.collection_name)
+        except Exception:
+            pass
+        self.collection = self._chroma.get_or_create_collection(
+            name=self.collection_name, embedding_function=self.funcao_embedding
+        )
 
     @staticmethod
     def _enriquecer_datas(texto: str) -> str:
@@ -260,6 +269,7 @@ class RAGPipeline:
 
     def ingest_and_index(self) -> int:
         """Extrai, chunka e indexa os PDFs do corpus no ChromaDB + BM25."""
+        self._limpar_collection()
         docs: list[dict] = []
         for caminho_pdf in self.corpus_dir.glob("*.pdf"):
             leitor = PdfReader(str(caminho_pdf))
@@ -393,7 +403,6 @@ def build_rag_pipeline(corpus_dir: str = "data/corpus", persist_dir: str | None 
     if persist_dir is None:
         persist_dir = str(Path(corpus_dir).resolve().parent.parent / "data" / "chroma")
     pipeline = RAGPipeline(corpus_dir=corpus_dir, persist_dir=persist_dir)
-    if pipeline.collection.count() == 0:
-        print("Indexando corpus...")
-        pipeline.ingest_and_index()
+    print("Indexando corpus...")
+    pipeline.ingest_and_index()
     return pipeline
