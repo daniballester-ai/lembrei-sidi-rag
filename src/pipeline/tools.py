@@ -9,18 +9,16 @@ from typing import Any, Callable
 
 import requests
 
-DEADLINES_PATH = Path(__file__).resolve().parents[2] / "data" / "deadlines.json"
+from src.data import load_json, save_json
+
+DEADLINES_FILE = "deadlines.json"
 
 
 def load_deadlines() -> list[dict]:
-    if not DEADLINES_PATH.exists():
-        return []
-    with open(DEADLINES_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    return load_json(DEADLINES_FILE, [])
 
 def save_deadlines(data: list[dict]) -> None:
-    with open(DEADLINES_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    save_json(DEADLINES_FILE, data)
 
 def delete_deadline(id_tarefa: str) -> bool:
     atividades = load_deadlines()

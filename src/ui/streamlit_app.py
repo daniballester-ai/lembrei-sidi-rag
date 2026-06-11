@@ -200,7 +200,7 @@ def get_semantic_cache():
 @st.cache_data
 def obter_disciplinas_grade():
     """Extrai todas as disciplinas numeradas do PDF da grade da residência."""
-    caminho_pdf = _ROOT / "data" / "corpus" / "Grade_Fase2_TIC44.xlsx.PDF"
+    caminho_pdf = _ROOT / "data" / "corpus" / "Grade_Fase2_TIC44.xlsx.pdf"
     if not caminho_pdf.exists():
         # Fallback caso o arquivo não exista
         return ["AWS", "Engenharia de Dados", "NoSQL", "Aula Magna"]
