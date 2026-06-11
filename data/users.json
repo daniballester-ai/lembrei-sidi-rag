@@ -13,5 +13,10 @@
     "email": "gabrielfl_top@outlook.com",
     "password_hash": "5535c341aa236af37fbce6f185229472b2b8dff3879f4f1adb54bc711a0cc58e",
     "role": "student"
+  },
+  {
+    "email": "jwajrrsidi@gmail.com",
+    "password_hash": "1a19a4169dcaf933e8ec894905d4a2003ab37065a27ff1124617fbf0215f9121",
+    "role": "student"
   }
 ]
