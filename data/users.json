@@ -8,5 +8,10 @@
     "email": "aluno@sidi.org",
     "password_hash": "fd5675ae2e933b4070e682938203dcbb978966909cf03f3d9c4f271ad1b3107b",
     "role": "student"
+  },
+  {
+    "email": "gabrielfl_top@outlook.com",
+    "password_hash": "5535c341aa236af37fbce6f185229472b2b8dff3879f4f1adb54bc711a0cc58e",
+    "role": "student"
   }
 ]
