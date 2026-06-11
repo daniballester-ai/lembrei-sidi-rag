@@ -1,14 +1,5 @@
 [
   {
-    "id": "3d884963",
-    "disciplina": "24-Fairness em Machine Learning",
-    "atividade": "Avaliação final Fariness",
-    "data_limite": "10-06-2026 23:59:00",
-    "formato_envio": "Link Externo",
-    "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLSd-0n8bVyD_z1aRV-jab56fdOffsSkb31rBrzvR5fZDd1RGfw/viewform",
-    "detalhes": "Somente preencher o forms com apoio do material."
-  },
-  {
     "id": "77defe2a",
     "disciplina": "23-Desenvolvendo Software com IA Generativa",
     "atividade": "Projeto final RAG",
