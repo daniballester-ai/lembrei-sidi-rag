@@ -16,5 +16,14 @@
     "formato_envio": "Link Externo",
     "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLSd-0n8bVyD_z1aRV-jab56fdOffsSkb31rBrzvR5fZDd1RGfw/viewform",
     "detalhes": "Somente preencher o forms com apoio do material."
+  },
+  {
+    "id": "77defe2a",
+    "disciplina": "23-Desenvolvendo Software com IA Generativa",
+    "atividade": "Projeto final RAG",
+    "data_limite": "09-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLScgBlAQTkCgG4HV5winrEjDWX9AJCCRfYKARAZxu24xueE0cg/viewform",
+    "detalhes": "Preencher o forms e adicionar o link público do projeto, o código no github e um vídeo de apresentação de mais ou menos 3 minutos."
   }
 ]
