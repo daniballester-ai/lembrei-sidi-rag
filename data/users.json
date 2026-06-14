@@ -23,5 +23,10 @@
     "email": "leonardo.sd@sidi.org.br",
     "password_hash": "b79a7edef24cb573c1f409efc41d8f8e048c6cb7236d1c44b6307fdf7d590490",
     "role": "student"
+  },
+  {
+    "email": "wesleysilvia13@gmail.com",
+    "password_hash": "0e5fc6896a459e819c1fcdbb7fd4a9058ab865f81ce39ec5302db7a40c9b996a",
+    "role": "student"
   }
 ]
