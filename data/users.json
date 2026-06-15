@@ -33,5 +33,10 @@
     "email": "kaiquepinheiro01@icloud.com",
     "password_hash": "fbdbb9e7b4cba3b56f702e51947de3536ede0fe081fabfe30410be964eb04086",
     "role": "student"
+  },
+  {
+    "email": "camillasoares818@gmail.com",
+    "password_hash": "f3e826b0bbe87b3a38ca1bb57c2c4895144d0b68246a1d4c6294a1b2a5495fc1",
+    "role": "student"
   }
 ]
