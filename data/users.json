@@ -28,5 +28,10 @@
     "email": "wesleysilvia13@gmail.com",
     "password_hash": "0e5fc6896a459e819c1fcdbb7fd4a9058ab865f81ce39ec5302db7a40c9b996a",
     "role": "student"
+  },
+  {
+    "email": "kaiquepinheiro01@icloud.com",
+    "password_hash": "fbdbb9e7b4cba3b56f702e51947de3536ede0fe081fabfe30410be964eb04086",
+    "role": "student"
   }
 ]
