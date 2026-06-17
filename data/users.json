@@ -53,5 +53,10 @@
     "email": "leticia.oliveira@aluno.ufca.edu.br",
     "password_hash": "4e24c446ef5fb6c739e9655eb0cae77545cfeb4acd54dffc6f401c65e9de8a5a",
     "role": "student"
+  },
+  {
+    "email": "fnd.lips2@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "student"
   }
 ]
