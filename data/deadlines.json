@@ -43,5 +43,14 @@
     "formato_envio": "E-mail",
     "link_destino": "thierry.m@sidi.org.br",
     "detalhes": "Enviar o projeto final. Usar o notebook de aula para ajustar para o projeto."
+  },
+  {
+    "id": "8660e4d5",
+    "disciplina": "27-Segment Anything Model (SAM) da Meta",
+    "atividade": "Avaliação Final",
+    "data_limite": "19-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://forms.gle/3MkxeQ5VqAtdnLCfA",
+    "detalhes": "Única avaliação final. Responder ao formulário. É preciso rodar o notebook para capturar uma imagem segmentada para envio também no mesmo formulário."
   }
 ]
