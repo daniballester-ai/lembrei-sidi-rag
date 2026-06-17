@@ -43,5 +43,10 @@
     "email": "idarlandias@gmail.com",
     "password_hash": "167ecb75111ccac96f20227cbc1b33283dad793b07c1ed37ca56415c187b2a0a",
     "role": "student"
+  },
+  {
+    "email": "vivianematos@gmail.com",
+    "password_hash": "c1718bd74e236f5ff5e491be86697cbdb03e006dd1858fd28c4f65f39d767d6e",
+    "role": "student"
   }
 ]
