@@ -58,5 +58,10 @@
     "email": "fnd.lips2@gmail.com",
     "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
     "role": "student"
+  },
+  {
+    "email": "wls67lima@gmail.com",
+    "password_hash": "d0aa87bf74b4dd0bedcb4753376d71c43fae3c099744e6133f053535aeca4a12",
+    "role": "student"
   }
 ]
