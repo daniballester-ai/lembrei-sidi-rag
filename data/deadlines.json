@@ -34,5 +34,14 @@
     "formato_envio": "Link Externo",
     "link_destino": "https://forms.gle/tgYnux1ofNsQ5aPY9",
     "detalhes": "Enviar o arquivo do código (.ipynb ou .py) e para quem não apresentou, enviar o vídeo também."
+  },
+  {
+    "id": "417c9c4c",
+    "disciplina": "26-Machine Learning on Edge - TensorFlow Lite",
+    "atividade": "Projeto Final",
+    "data_limite": "26-06-2026 23:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "thierry.m@sidi.org.br",
+    "detalhes": "Enviar o projeto final. Usar o notebook de aula para ajustar para o projeto."
   }
 ]
