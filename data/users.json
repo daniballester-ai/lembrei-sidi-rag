@@ -38,5 +38,10 @@
     "email": "camillasoares818@gmail.com",
     "password_hash": "f3e826b0bbe87b3a38ca1bb57c2c4895144d0b68246a1d4c6294a1b2a5495fc1",
     "role": "student"
+  },
+  {
+    "email": "idarlandias@gmail.com",
+    "password_hash": "167ecb75111ccac96f20227cbc1b33283dad793b07c1ed37ca56415c187b2a0a",
+    "role": "student"
   }
 ]
