@@ -73,5 +73,10 @@
     "email": "fogacafabricioff@gmail.com",
     "password_hash": "0c10f1db6535d719f7c0927c01fdad3e1ae7de49ab488f11617a82d134c4d84b",
     "role": "student"
+  },
+  {
+    "email": "devpedrocamara@gmail.com",
+    "password_hash": "0ed9bdeb007e8464c5229267dd3048ab46ab2c72566de0582bffb2a0b72bdcae",
+    "role": "student"
   }
 ]
