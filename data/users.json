@@ -68,5 +68,10 @@
     "email": "marcosvm1000@gmail.com",
     "password_hash": "819d20a2fededde8b5abe38e739641945c1f9967fcbee18643fff4b96aafe721",
     "role": "student"
+  },
+  {
+    "email": "fogacafabricioff@gmail.com",
+    "password_hash": "0c10f1db6535d719f7c0927c01fdad3e1ae7de49ab488f11617a82d134c4d84b",
+    "role": "student"
   }
 ]
