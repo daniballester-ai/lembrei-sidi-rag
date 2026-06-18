@@ -63,5 +63,10 @@
     "email": "wls67lima@gmail.com",
     "password_hash": "d0aa87bf74b4dd0bedcb4753376d71c43fae3c099744e6133f053535aeca4a12",
     "role": "student"
+  },
+  {
+    "email": "marcosvm1000@gmail.com",
+    "password_hash": "819d20a2fededde8b5abe38e739641945c1f9967fcbee18643fff4b96aafe721",
+    "role": "student"
   }
 ]
