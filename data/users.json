@@ -88,5 +88,10 @@
     "email": "marcelodearaujo677@gmail.com",
     "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
     "role": "student"
+  },
+  {
+    "email": "douglalpolinto@outlook.com",
+    "password_hash": "05e78665a9d91cddbc83070df9a935d50e3abf1a08a4acfa391fcfe1c89b0b2f",
+    "role": "student"
   }
 ]
