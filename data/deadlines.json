@@ -61,5 +61,14 @@
     "formato_envio": "Link Externo",
     "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLSfeSftpo1RoAml_QL6BHduZBfQSTZZJuscrACcjj1efBZnGlQ/viewform?usp=sharing&ouid=117431941497588779238",
     "detalhes": "Atividade para ser feita no notebook e respondida no formulário"
+  },
+  {
+    "id": "0ea6fd89",
+    "disciplina": "28-Desenvolvendo um projeto end-to-end de Machine Lea",
+    "atividade": "Atividade 2 - Regressão",
+    "data_limite": "22-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLSfF0gGBAQ-AE22v-68CEYCi3L88gA3IkNsCDjI60fVljUgXqg/viewform",
+    "detalhes": "Descritivo da atividade no Slide 15 do ppt da aula 2"
   }
 ]
