@@ -93,5 +93,10 @@
     "email": "douglalpolinto@outlook.com",
     "password_hash": "05e78665a9d91cddbc83070df9a935d50e3abf1a08a4acfa391fcfe1c89b0b2f",
     "role": "student"
+  },
+  {
+    "email": "fylypew@gmail.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "student"
   }
 ]
