@@ -103,5 +103,10 @@
     "email": "saimomgozn@gmail.com",
     "password_hash": "7f832166706b643dcfc693e77557963cd262e8b98fc4e07651f78db1a33a926d",
     "role": "student"
+  },
+  {
+    "email": "j.victorfd.dev@gmail.com",
+    "password_hash": "f832c278bf0c0bee5bcf489f1d6011c0f1cbbc2d7882c680fdfe7cc83dbff714",
+    "role": "student"
   }
 ]
