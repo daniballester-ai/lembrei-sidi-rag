@@ -108,5 +108,10 @@
     "email": "j.victorfd.dev@gmail.com",
     "password_hash": "f832c278bf0c0bee5bcf489f1d6011c0f1cbbc2d7882c680fdfe7cc83dbff714",
     "role": "student"
+  },
+  {
+    "email": "sthefferson.ufma@gmail.com",
+    "password_hash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+    "role": "student"
   }
 ]
