@@ -118,5 +118,10 @@
     "email": "mardemes@gmail.com",
     "password_hash": "f46fb2507b0d6aa55d92e0f706de45f31b3bc058e2e5b8db5b78672b44efbaaf",
     "role": "student"
+  },
+  {
+    "email": "a@gmail.com",
+    "password_hash": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "role": "student"
   }
 ]
