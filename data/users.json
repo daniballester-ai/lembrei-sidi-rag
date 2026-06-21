@@ -113,5 +113,10 @@
     "email": "sthefferson.ufma@gmail.com",
     "password_hash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
     "role": "student"
+  },
+  {
+    "email": "mardemes@gmail.com",
+    "password_hash": "f46fb2507b0d6aa55d92e0f706de45f31b3bc058e2e5b8db5b78672b44efbaaf",
+    "role": "student"
   }
 ]
