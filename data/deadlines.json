@@ -70,5 +70,14 @@
     "formato_envio": "Link Externo",
     "link_destino": "https://docs.google.com/forms/d/e/1FAIpQLSfF0gGBAQ-AE22v-68CEYCi3L88gA3IkNsCDjI60fVljUgXqg/viewform",
     "detalhes": "Descritivo da atividade no Slide 15 do ppt da aula 2"
+  },
+  {
+    "id": "6356d533",
+    "disciplina": "26-Machine Learning on Edge - TensorFlow Lite",
+    "atividade": "Projeto Final - JOB MATCH AI",
+    "data_limite": "24-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "",
+    "detalhes": "Desenvolvimento de um projeto ML End to End. Enviar os vídeos e o código até o dia 24/06. Os 3 melhores em termos de MÉTRICAS (não de apresentação), irão apresentar na quinta-feira (25/04) às 12h"
   }
 ]
