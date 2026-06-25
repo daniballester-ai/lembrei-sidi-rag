@@ -128,5 +128,10 @@
     "email": "abc@gmail.com",
     "password_hash": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
     "role": "student"
+  },
+  {
+    "email": "oi@oi.com",
+    "password_hash": "87f633634cc4b02f628685651f0a29b7bfa22a0bd841f725c6772dd00a58d489",
+    "role": "student"
   }
 ]
