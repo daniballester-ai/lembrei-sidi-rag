@@ -138,5 +138,10 @@
     "email": "oioi@oi.com",
     "password_hash": "87f633634cc4b02f628685651f0a29b7bfa22a0bd841f725c6772dd00a58d489",
     "role": "student"
+  },
+  {
+    "email": "123@123.com",
+    "password_hash": "87f633634cc4b02f628685651f0a29b7bfa22a0bd841f725c6772dd00a58d489",
+    "role": "student"
   }
 ]
