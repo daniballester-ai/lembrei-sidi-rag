@@ -143,5 +143,10 @@
     "email": "123@123.com",
     "password_hash": "87f633634cc4b02f628685651f0a29b7bfa22a0bd841f725c6772dd00a58d489",
     "role": "student"
+  },
+  {
+    "email": "tarcio.ee@gmail.com",
+    "password_hash": "6d36536361ba9f5ee324e4ad232e64830cf5c059a0cbd527475aceebbb0e8314",
+    "role": "student"
   }
 ]
