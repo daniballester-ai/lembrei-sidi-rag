@@ -79,5 +79,14 @@
     "formato_envio": "Link Externo",
     "link_destino": "https://forms.gle/uwXvHHAywhR5qr2P8",
     "detalhes": "Desenvolvimento de um projeto ML End to End. Enviar os vídeos e o código até o dia 24/06. Os 3 melhores em termos de MÉTRICAS (não de apresentação), irão apresentar na quinta-feira (25/04) às 12h"
+  },
+  {
+    "id": "96840e8e",
+    "disciplina": "29-Processamento de Linguagem Natural (NLP)",
+    "atividade": "Atividade Dia 1",
+    "data_limite": "26-06-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "r.simionato@sidi.org.br",
+    "detalhes": "Entregar notebook por email para r.simionato@sidi.org.br. "
   }
 ]
