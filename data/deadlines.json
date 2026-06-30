@@ -88,5 +88,14 @@
     "formato_envio": "E-mail",
     "link_destino": "r.simionato@sidi.org.br",
     "detalhes": "Entregar notebook por email para r.simionato@sidi.org.br. "
+  },
+  {
+    "id": "1b7ceff4",
+    "disciplina": "13-Python para Análise de Dados",
+    "atividade": "Entrega 1 [E1] do Projeto de IA",
+    "data_limite": "30-06-2026 23:59:00",
+    "formato_envio": "Link Externo",
+    "link_destino": "https://sidiorgbr.sharepoint.com/sites/PPISOFTEX-RESIDNCIATIC/SitePages/CollabHome.aspx",
+    "detalhes": "entrega 1 do projeto de IA do professor Nicksson. Adicionar no sharepoint o pdf."
   }
 ]
