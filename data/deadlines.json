@@ -106,5 +106,14 @@
     "formato_envio": "E-mail",
     "link_destino": "r.simionato@sidi.org.br",
     "detalhes": "Entregar por email (r.simionato@sidi.org.br) o notebook de atividades do dia 2."
+  },
+  {
+    "id": "06401c78",
+    "disciplina": "29-Processamento de Linguagem Natural (NLP)",
+    "atividade": "Projeto Final NLP",
+    "data_limite": "03-07-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "r.simionato@sidi.org.br",
+    "detalhes": "Projeto Final, enviar via email r.simionato@sidi.org.br. Duplas ou trios, o material está no sharepoint."
   }
 ]
