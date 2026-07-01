@@ -153,5 +153,10 @@
     "email": "cristianomendes3@ufpi.edu.br",
     "password_hash": "4e6dff1678f44214881970e2fc90ea6545202c82b2b22c35e3cd7dea50e57253",
     "role": "student"
+  },
+  {
+    "email": "wesleysilvia@gmail.com",
+    "password_hash": "98f411188ff94071b49c835a5cb46f350d8cf49a652c5a68e218bfb7afaeeea9",
+    "role": "student"
   }
 ]
