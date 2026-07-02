@@ -158,5 +158,10 @@
     "email": "wesleysilvia@gmail.com",
     "password_hash": "98f411188ff94071b49c835a5cb46f350d8cf49a652c5a68e218bfb7afaeeea9",
     "role": "student"
+  },
+  {
+    "email": "samuelmalves1@gmail.com",
+    "password_hash": "356261ec05ddd6d0653a23c9405882855db450447d37a27c1c2269ae6673fdde",
+    "role": "student"
   }
 ]
