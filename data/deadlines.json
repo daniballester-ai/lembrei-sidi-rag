@@ -115,5 +115,14 @@
     "formato_envio": "E-mail",
     "link_destino": "r.simionato@sidi.org.br",
     "detalhes": "Projeto Final, enviar via email r.simionato@sidi.org.br. Duplas ou trios, o material está no sharepoint."
+  },
+  {
+    "id": "6b36f7ba",
+    "disciplina": "30-Inteligência Artificial Generativa",
+    "atividade": "GenIA-AE / 0day_AE_task.ipynb",
+    "data_limite": "06-07-2026 10:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "darwin.sp@sidi.org.br",
+    "detalhes": "Atividade para entregar por email darwin.sp@sidi.org.br."
   }
 ]
