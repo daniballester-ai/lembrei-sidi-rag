@@ -163,5 +163,10 @@
     "email": "samuelmalves1@gmail.com",
     "password_hash": "356261ec05ddd6d0653a23c9405882855db450447d37a27c1c2269ae6673fdde",
     "role": "student"
+  },
+  {
+    "email": "stanleygamemaster@gmail.com",
+    "password_hash": "a5305216ba893b481038dbc6207ab86d1eeb7a33ef3b646b5a99762054809f4f",
+    "role": "student"
   }
 ]
