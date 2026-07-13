@@ -151,5 +151,14 @@
     "formato_envio": "E-mail",
     "link_destino": "darwin.sp@sidi.org.br",
     "detalhes": "IMPORTANTE:\n- identificar os alunos do grupo no corpo de texto da primeira célula do notebook;\n- só uma pessoa do time envia a atividade\n- renomear o arquivo a ser entregue de modo a identificar os alunos do grupo (ex. projeto_final_ViniJr_GustavoLima_AnaCastela.ipynb);\n- Atenção ao texto no assunto do e-mail de entrega."
+  },
+  {
+    "id": "3343ea8c",
+    "disciplina": "31-Segurança e Privacidade de Dados",
+    "atividade": "ETAPA 1 -Exercício 1 e 2 no codeberg",
+    "data_limite": "13-07-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "eduardo@eduardovasconcelos.com",
+    "detalhes": "Exercícios em https://codeberg.org/vasconcedu/residencia-tecnica/src/branch/master/etapa-1.md. Enviar por email:  eduardo@eduardovasconcelos.com"
   }
 ]
