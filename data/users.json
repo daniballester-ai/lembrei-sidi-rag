@@ -168,5 +168,10 @@
     "email": "stanleygamemaster@gmail.com",
     "password_hash": "a5305216ba893b481038dbc6207ab86d1eeb7a33ef3b646b5a99762054809f4f",
     "role": "student"
+  },
+  {
+    "email": "cavalcantesidi@outlook.com",
+    "password_hash": "e75bb21a8e94a4e0bdab1160b7362d7492085110437d33451bd81a380e2bb701",
+    "role": "student"
   }
 ]
