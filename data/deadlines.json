@@ -160,5 +160,14 @@
     "formato_envio": "E-mail",
     "link_destino": "eduardo@eduardovasconcelos.com",
     "detalhes": "Exercícios em https://codeberg.org/vasconcedu/residencia-tecnica/src/branch/master/etapa-1.md. Enviar por email:  eduardo@eduardovasconcelos.com"
+  },
+  {
+    "id": "f13846af",
+    "disciplina": "34-Banco de Dados Relacionais e SQL",
+    "atividade": "Workbooks Musica e Flores",
+    "data_limite": "30-07-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "otavio.r@sidi.org.br",
+    "detalhes": "Enviar por email os arquivos dos workbooks de música e flores até o final da disciplina."
   }
 ]
