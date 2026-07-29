@@ -178,5 +178,10 @@
     "email": "tony.esau@aluno.ufca.edu.br",
     "password_hash": "cd180e43a6b65d582387012c1f9ee828116e87b892030a4068c03d4dd1ef90d3",
     "role": "student"
+  },
+  {
+    "email": "carolanely.br@gmail.com",
+    "password_hash": "66b8de952fa04a0231313884fcee6813bd6613123a1cd3fae01db5fa3341c2e5",
+    "role": "student"
   }
 ]
