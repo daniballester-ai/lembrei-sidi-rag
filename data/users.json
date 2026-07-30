@@ -183,5 +183,10 @@
     "email": "carolanely.br@gmail.com",
     "password_hash": "66b8de952fa04a0231313884fcee6813bd6613123a1cd3fae01db5fa3341c2e5",
     "role": "student"
+  },
+  {
+    "email": "antoniosergiok@gmail.com",
+    "password_hash": "9c3e870d60864b46b672b5050f24c2d542538994d7225a6e82b3ec7db00dd8f2",
+    "role": "student"
   }
 ]
