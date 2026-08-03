@@ -169,5 +169,14 @@
     "formato_envio": "E-mail",
     "link_destino": "otavio.r@sidi.org.br",
     "detalhes": "Enviar por email os arquivos dos workbooks de música e flores até o final da disciplina."
+  },
+  {
+    "id": "416aa5d7",
+    "disciplina": "34-Banco de Dados Relacionais e SQL",
+    "atividade": "Desafio dia 3 - Prof. Otavio",
+    "data_limite": "03-08-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "otavio.r@sidi.org.br",
+    "detalhes": "Enviar arquivo .txt e .db"
   }
 ]
