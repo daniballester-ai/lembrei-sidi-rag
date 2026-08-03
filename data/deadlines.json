@@ -178,5 +178,14 @@
     "formato_envio": "E-mail",
     "link_destino": "otavio.r@sidi.org.br",
     "detalhes": "Enviar arquivo .txt e .db"
+  },
+  {
+    "id": "62a5ce6d",
+    "disciplina": "34-Banco de Dados Relacionais e SQL",
+    "atividade": "Desafio dia 04 SQL",
+    "data_limite": "03-08-2026 17:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "adnan.t@sidi.org.br",
+    "detalhes": "Enviar arquivos .sql e .db por email adnan.t@sidi.org.br"
   }
 ]
