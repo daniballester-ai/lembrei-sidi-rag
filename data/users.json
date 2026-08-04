@@ -188,5 +188,10 @@
     "email": "antoniosergiok@gmail.com",
     "password_hash": "9c3e870d60864b46b672b5050f24c2d542538994d7225a6e82b3ec7db00dd8f2",
     "role": "student"
+  },
+  {
+    "email": "fogacafabricio@hotmail.com",
+    "password_hash": "8ba5aa2b06157612611593ac563ef951336ac79954dda82871a2971866f1df89",
+    "role": "student"
   }
 ]
