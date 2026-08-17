@@ -196,5 +196,14 @@
     "formato_envio": "E-mail",
     "link_destino": "r.bau@sidi.org.br",
     "detalhes": "Enviar atividade final para o email r.bau@sidi.org.br."
+  },
+  {
+    "id": "d3620d8e",
+    "disciplina": "40-Processo ETL usando Python",
+    "atividade": "ETL_python_1day",
+    "data_limite": "17-08-2026 17:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "darwin.sp@sidi.org.br",
+    "detalhes": "Enviar notebook do dia 1 para o email darwin.sp@sidi.org.br"
   }
 ]
