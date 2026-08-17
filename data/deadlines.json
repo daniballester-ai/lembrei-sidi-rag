@@ -187,5 +187,14 @@
     "formato_envio": "E-mail",
     "link_destino": "adnan.t@sidi.org.br",
     "detalhes": "Enviar arquivos .sql e .db por email adnan.t@sidi.org.br"
+  },
+  {
+    "id": "9d47f1c1",
+    "disciplina": "39-Docker na prática",
+    "atividade": "Trabalho Final",
+    "data_limite": "24-08-2026 23:59:00",
+    "formato_envio": "E-mail",
+    "link_destino": "r.bau@sidi.org.br",
+    "detalhes": "Enviar atividade final para o email r.bau@sidi.org.br."
   }
 ]
