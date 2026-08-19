@@ -214,5 +214,14 @@
     "formato_envio": "E-mail",
     "link_destino": "darwin.sp@sidi.org.br",
     "detalhes": "Enviar o notebook Day2 para darwin.sp@sidi.org.br"
+  },
+  {
+    "id": "4cd1fee8",
+    "disciplina": "40-Processo ETL usando Python",
+    "atividade": "Atividade dia #3",
+    "data_limite": "19-08-2026 19:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "darwin.sp@sidi.org.br",
+    "detalhes": "Enviar por email darwin.sp@sidi.org.br."
   }
 ]
