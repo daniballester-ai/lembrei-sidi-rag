@@ -223,5 +223,14 @@
     "formato_envio": "E-mail",
     "link_destino": "darwin.sp@sidi.org.br",
     "detalhes": "Enviar por email darwin.sp@sidi.org.br."
+  },
+  {
+    "id": "e9b65fc8",
+    "disciplina": "41-Implementando pipeline e Web Scraping usando Python",
+    "atividade": "Atividade dia #1",
+    "data_limite": "21-08-2026 23:00:00",
+    "formato_envio": "E-mail",
+    "link_destino": "le.araujo@sidi.org.br",
+    "detalhes": "Enviar o notebook e o .csv para o email le.araujo@sidi.org.br"
   }
 ]
